@@ -1,4 +1,4 @@
-rprogcoursera
+CourseraMaterials
 =============
 
-Coursera course materials for R Programming
+Coursera course materials - code and info/resources for the Data Scientists' Toolbox, R Programming, etc.
